@@ -1,11 +1,11 @@
 @media screen and (max-width: 480px) {
   .logo {
     font-size: 1rem;
-    margin-left: 0.5rem;
+    margin-left: 0.3rem;
   }
   .nav-links {
     gap: 8px;
-    margin-right: 0.5rem;
+    margin-right: 0.3rem;
   }
   .nav-links li a {
     color: black;
