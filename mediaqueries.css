@@ -5,7 +5,7 @@
   }
   .nav-links {
     gap: 8px;
-    margin-right: 1rem;
+    margin-right: 0.5rem;
   }
   .nav-links li a {
     color: black;
