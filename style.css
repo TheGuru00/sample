@@ -88,7 +88,7 @@ section{
 /* PROFILE SECTION */
 
 .profile {
-  min-height: 96vh; /* Full height of viewport */
+  min-height: 80vh; /* Full height of viewport */
   display: flex;
   justify-content: center; /* center horizontally */
   align-items: center;     /* center vertically */
