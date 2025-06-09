@@ -5,6 +5,12 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  overflow-x: hidden;
 }
 
 body {
@@ -84,7 +90,6 @@ section{
 .profile {
   min-height: 100vh; /* Full height of viewport */
   display: flex;
-  flex-direction: column;
   justify-content: center; /* center horizontally */
   align-items: center;     /* center vertically */
   gap: 10rem;               /* space between image and text */        /* allows wrap on smaller screens */
